@@ -1,7 +1,7 @@
-## Agenda management
+## Contact Manager App
 
 
-## About Project:
+### About Project:
 
 The objective of this project is to showcase my skills and experience in frontend development by creating a web application for contact management.
 
@@ -29,8 +29,8 @@ Built using [React JS](https://pt-br.reactjs.org/) with [Vite JS](https://vitejs
 ### Install project
 
 ```bash
-git clone git@github.com:amand4/crud-users.git
-cd crud-users
+git clone git@github.com:amand4/contact-manager-app.git
+cd contact-manager-app
 npm install
 ```
 
